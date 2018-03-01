@@ -1,6 +1,8 @@
-## Lili Zhu
+# Lili Zhu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact Info: 
+:Open Mailbox:Email Address: lilizhu1998@gmail.com
+
 
 ### Markdown
 
