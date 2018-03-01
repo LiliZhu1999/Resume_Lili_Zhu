@@ -14,8 +14,9 @@
  - MiraCosta College, Oceanside CA 
     - Associate of Computer Science, expected May 2019
     - GPA of 4.0
+ - President's List for the fall 2017, MiraCosta College
  - Ranked in top 25% of contestants in Canadian Intermediate Mathematics Contest, 2014
- - President's List for the fall 2017 semester, MiraCoata College
+ 
  
  ## Skills / Courses
  - Java
@@ -26,3 +27,5 @@
 - Lab Aid at MiraCosta: Help students with questions about basic Java courses' homework and general questions
 - Clubs: - Women in Computer Science
          - Computer Science club
+- Personal projects: Made a simple version of Sudoku
+
