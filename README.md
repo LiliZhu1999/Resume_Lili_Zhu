@@ -3,16 +3,26 @@
 ## Contact Info: 
 :mailbox: Email Address: lilizhu1998@gmail.com
 
+## Summary of Qualifications
+-	Major in Computer Science
+-	Completed two Java classes, current in Java Data Structures and Algotithm class
+-	Good at analysis and math
+-	Effective time manager with ability to multi-task and prioritize responsibilities
+-	Faster learner
 
-## Education
+## Education / Certification
  - MiraCosta College, Oceanside CA 
     - Associate of Computer Science, expected May 2019
     - GPA of 4.0
  - Ranked in top 25% of contestants in Canadian Intermediate Mathematics Contest, 2014
+ - President's List for the fall 2017 semester, MiraCoata College
  
- 
+ ## Skills / Courses
+ - Java
+ - Python: Current self-learning Python
+ - Foreign Languages: Native speaker in Chinese, some Spanish
 
-
-
-[Link](url) and ![Image](src)
-
+## Experience
+- Lab Aid at MiraCosta: Help students with questions about basic Java courses' homework and general questions
+- Clubs: - Women in Computer Science
+         - Computer Science club
