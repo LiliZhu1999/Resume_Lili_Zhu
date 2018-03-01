@@ -1,7 +1,7 @@
 # Lili Zhu
 
 ## Contact Info: 
-:Open Mailbox:Email Address: lilizhu1998@gmail.com
+:open mailbox: Email Address: lilizhu1998@gmail.com
 
 
 ### Markdown
