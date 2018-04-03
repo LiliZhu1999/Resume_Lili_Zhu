@@ -20,12 +20,10 @@
  
  ## Skills / Courses
  - Java
- - Python: Current self-learning Python
  - Foreign Languages: Native speaker in Chinese, some Spanish
 
 ## Experience
 - Lab Aid at MiraCosta: Help students with questions about basic Java courses' homework and general questions
 - Clubs: - Women in Computer Science
          - Computer Science club
-- Personal projects: Made a simple version of Sudoku
 
