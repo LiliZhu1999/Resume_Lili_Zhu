@@ -7,8 +7,6 @@
 -	Major in Computer Science
 -	Completed two Java classes, current in Java Data Structures and Algotithm class
 -	Good at analysis and math
--	Effective time manager with ability to multi-task and prioritize responsibilities
--	Faster learner
 
 ## Education / Certification
  - MiraCosta College, Oceanside CA 
@@ -21,6 +19,8 @@
  ## Skills / Courses
  - Java
  - Foreign Languages: Native speaker in Chinese, some Spanish
+ -	Effective time manager with ability to multi-task and prioritize responsibilities
+ -	Faster learner
 
 ## Experience
 - Lab Aid at MiraCosta: Help students with questions about basic Java courses' homework and general questions
