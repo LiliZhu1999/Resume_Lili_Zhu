@@ -18,7 +18,6 @@
  
  ## Skills / Courses
  - Java
- - Foreign Languages: Native speaker in Chinese, some Spanish
  -	Effective time manager with ability to multi-task and prioritize responsibilities
  -	Faster learner
 
