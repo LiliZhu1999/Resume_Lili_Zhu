@@ -22,7 +22,7 @@
  -	Faster learner
 
 ## Experience
-- Lab Aid at MiraCosta: Help students with questions about basic Java courses' homework and general questions
-- Clubs: - Women in Computer Science
-         - Computer Science club
+- Lab Aid and Tutot at MiraCosta: Help students with questions about basic Java courses' homework and general questions
+- Clubs: - President of Women in Computer Science
+         - Member of Computer Science club
 
