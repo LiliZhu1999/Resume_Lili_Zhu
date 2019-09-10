@@ -15,7 +15,7 @@ organization and work experience.
  - University of California San Diego
     - Expected Graduation Date: June 2021
     - B.S., Computer Science
-      Minor: Physics
+    - Minor: Physics
 
  - MiraCosta College, Oceanside CA 
     - Associate of Computer Science, May 2019
