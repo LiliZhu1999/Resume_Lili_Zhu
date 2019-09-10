@@ -7,9 +7,9 @@
 Experience analyzing problems, making algorithms, developing high-level language projects, and lowlevel language projects through related computer science courses and hackathons. Work effectively
 within a team as well as independently. Proven leadership and public speaking abilities through student
 organization and work experience.
-• Intellij
-• GitHub
-• Android Studio
+- Intellij
+- GitHub
+- Android Studio
 
 ## Education / Certification
  - University of California San Diego
@@ -41,5 +41,5 @@ population within the field
 
 - School Events Compiler LA Hackathon 2018
   - Allow student organizations post information of events that will happen on campus.
-• Rating of event experiences under relevant posts feature existing
-• Learn and use Android Studio with Java and xml in one week
+  - Rating of event experiences under relevant posts feature existing
+  - Learn and use Android Studio with Java and xml in one week
