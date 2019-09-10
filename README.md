@@ -28,18 +28,18 @@ organization and work experience.
 
 ## Relevant Experience
 - Lab Aid and Computer Science Tutor, MiraCosta College 1/2018 – 5/2019
-• Help students with questions about homework, Java related questions, general computer science
+  - Help students with questions about homework, Java related questions, general computer science
 questions.
-• Assist professors to enhance students’ debugging skills 
+  - Assist professors to enhance students’ debugging skills 
 
 - President of Women in Computer Science Club 8/2018 – 5/2019
-• Host events to attract middle school and high school students into Computer Science
-• Host a mocking interview with attendance of Cisco, Cubic Transportation Systems, Google, and
+  - Host events to attract middle school and high school students into Computer Science
+  - Host a mocking interview with attendance of Cisco, Cubic Transportation Systems, Google, and
 TEKsystems Global Services
-• Promote, support, and retain the growing community of this historically underrepresented
+  - Promote, support, and retain the growing community of this historically underrepresented
 population within the field
 
 - School Events Compiler LA Hackathon 2018
-• Allow student organizations post information of events that will happen on campus.
+  - Allow student organizations post information of events that will happen on campus.
 • Rating of event experiences under relevant posts feature existing
 • Learn and use Android Studio with Java and xml in one week
