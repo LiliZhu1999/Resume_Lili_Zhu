@@ -24,7 +24,7 @@
  - Ranked in top 25% of contestants in Canadian Intermediate Mathematics Contest, 2014
  
 ## Projects 
- - School Events Compiler (LA Hackathon 2018)
+ - School Events Compiler 
       - Learned and used Android Studio with Java and xml to create a mobile app for searching on campus events in one week 
       - Used git fluently within a team of five people 
  
