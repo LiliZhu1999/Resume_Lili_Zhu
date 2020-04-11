@@ -13,10 +13,12 @@
  - University of California San Diego
     - Expected Graduation Date: Fall 2021
     - B.S., Computer Science
-
+    - GPA of 3.856 
+    
  - MiraCosta College, Oceanside CA 
     - Associate of Computer Science, May 2019
     - GPA of 4.0
+    
  - President's List for the fall 2017, Spring 2018, Fall 2018, Spring 2019, MiraCosta College
  
  - Ranked in top 25% of contestants in Canadian Intermediate Mathematics Contest, 2014
