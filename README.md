@@ -24,21 +24,21 @@
  - Ranked in top 25% of contestants in Canadian Intermediate Mathematics Contest, 2014
  
 ## Projects 
-School Events Compiler (LA Hackathon 2018)
-•	Learned and used Android Studio with Java and xml to create a mobile app for searching on campus events in one week 
-•	Used git fluently within a team of five people 
+ - School Events Compiler (LA Hackathon 2018)
+      - Learned and used Android Studio with Java and xml to create a mobile app for searching on campus events in one week 
+      - Used git fluently within a team of five people 
  
-Parking Finder 
-•	Used graph to find the closest available parking lot on campus, and return the exact path to the parking lot
-•	Programmed in Java
+ - Parking Finder 
+      - Used graph to find the closest available parking lot on campus, and return the exact path to the parking lot
+      - Programmed in Java
 
-Words Autocompletion
-•	Built a Ternary Search Tree data structure in C++
-•	Used the data structure with a large data file to predicted what words do users wants to type with missing characters in a string
+ - Words Autocompletion
+      - Built a Ternary Search Tree data structure in C++
+      - Used the data structure with a large data file to predicted what words do users wants to type with missing characters in a string
 
-Edible Plant Searcher    
-•	Used VScode and React Native to create an app to allow users taking pictures of plants, and searched for the information of a plant including if the plant is edible  
-•	Experienced in Machine Learning through Microsoft Azure’s automated machine learning tool to create a prototype of predicting a plant’s name
+ - Edible Plant Searcher    
+      - Used VScode and React Native to create an app to allow users taking pictures of plants, and searched for the information of a plant including if the plant is edible  
+      - Experienced in Machine Learning through Microsoft Azure’s automated machine learning tool to create a prototype of predicting a plant’s name
 
 
 ## Leadership/Work Experience 
