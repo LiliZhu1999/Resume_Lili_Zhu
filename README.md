@@ -14,12 +14,6 @@
     - Expected Graduation Date: Fall 2021
     - B.S., Computer Science
     - GPA of 3.856 
-    
- - MiraCosta College, Oceanside CA 
-    - Associate of Computer Science, May 2019
-    - GPA of 4.0
-    
- - President's List for the fall 2017, Spring 2018, Fall 2018, Spring 2019, MiraCosta College
  
  - Ranked in top 25% of contestants in Canadian Intermediate Mathematics Contest, 2014
  
@@ -28,9 +22,10 @@
       - Learned and used Android Studio with Java and xml to create a mobile app for searching on campus events in one week 
       - Used git fluently within a team of five people 
  
- - Parking Finder 
-      - Used graph to find the closest available parking lot on campus, and return the exact path to the parking lot
-      - Programmed in Java
+ - Python Image Rectification
+      - Constructed a project to match corners of uncalibrated camera images
+      - Implemented epipolar geometry and image projective rectification
+      - Developed the project in Jupyter Notebook with Python
 
  - Words Autocompletion
       - Built a Ternary Search Tree data structure in C++
@@ -42,6 +37,10 @@
 
 
 ## Leadership/Work Experience 
+Internship at Kneron                                                                             6/2021 - 9/2021
+•     Porting python files to c++ files
+•     Wrote tests for the ported c++ files
+
 Lab Aid and Computer Science Tutor, MiraCosta College                                            1/2018 – 5/2019 
 •	Helped students with questions about homework, Java related questions, and debugging skills  
  
@@ -49,4 +48,5 @@ President of Women in Computer Science Club                                     
 •	Promoted, supported, and retained the growing community of this historically underrepresented population within the field 
  
 ## Relevant Course Work 
-Data Structures and Algorithms, Mathematic for Algorithms and Systems, Computer Organization and Systems     Programming, Components and Design techniques for Digital Systems, Data Science (data visualization, artificial intelligence and machine learning)
+Introduction to Computer Vision: image filtering, feature detection, stereo vision, structure from motion, motion estimation, and recognition
+Data Structures, Objective Oriented Programming (Java, C++), Components and Design techniques for Digital Systems, Computer Organization and Systems Programming, Mathematic for Algorithms and Systems Data Science (data visualization), Computer Graphics
